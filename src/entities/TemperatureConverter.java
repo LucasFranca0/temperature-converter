@@ -1,10 +1,8 @@
 package entities;
 
-import Exceptions.DomainException;
+import exceptions.DomainException;
 
 import java.util.Scanner;
-
-import static java.lang.Double.NaN;
 
 public class TemperatureConverter {
     private char unit;

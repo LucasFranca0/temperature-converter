@@ -1,4 +1,4 @@
-import Exceptions.DomainException;
+import exceptions.DomainException;
 import entities.TemperatureConverter;
 
 import java.util.InputMismatchException;
